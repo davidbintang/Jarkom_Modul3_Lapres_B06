@@ -251,7 +251,7 @@ cara :
 ### 12. Ketika memakai proxy cukup dengan mengetikkan domain janganlupa-ta.yyy.pw dan memasukkan port 8080
 
 cara :
-+ menuliskan dalam kolom HTTP Proxy "janganlupa-ta.c07.pw" dengan port "8080"
++ menuliskan dalam kolom HTTP Proxy "janganlupa-ta.b06.pw" dengan port "8080"
 + masuk kedalam folder named.conf.local dalam malang, karena sebagai DNS Server
   ```
   nano etc/bind/named.conf.local
